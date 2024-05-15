@@ -1,5 +1,5 @@
 # Boas vindas ao meu perfil 💙💙
-Meu nome é Diego Gabriel
+Meu nome é Miguel Henrique
 
 -Estou estudando na Alura;
 
